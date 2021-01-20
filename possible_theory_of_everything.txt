@@ -110,13 +110,13 @@ The relative direction of matter's "arrow-of-time" is directly opposite to antim
                                  ,                          ^
      matter singularity/         ,                           , matter heat death/
      antimatter heat death>  000 ----------------------------* antimatter singularity
-                    ^            ,                           ^
-                            |     ,                         ,
-                            |      ,                       ,
-                            |         ,                  , '
-                            |           ' - > _ _ _ >  '
-                            |
-                          |
+                     ^           ,                           ^
+                     |            ,                         ,
+                     |             ,                       ,
+                     |              ,                  , '
+                     |                 ' - > _ _ _ >  '
+                     |
+                     |
                      antimatter heat death has already occurred (in our time period) if we consider any possible timeline,
                      in the near to long-term to unimaginably-long-term,
                      future (which has yet to be determined truthfully as far as we can tell), has already been accounted for in a max entropy scope.
