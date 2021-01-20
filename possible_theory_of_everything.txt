@@ -81,49 +81,49 @@ has already been used to convert into energy and back into the matter which embo
 
 The relative direction of matter's "arrow-of-time" is directly opposite to antimatters "arrow-of-time".
 
-			imagine these two discontinuous, parallel timelines create the elegantly symmetric "Circle of Time"
+            imagine these two discontinuous, parallel timelines create the elegantly symmetric "Circle of Time"
 
 
 
-			 	           Relative picture from MATTER's timeline (CLOCKWISE):
+                           Relative picture from MATTER's timeline (CLOCKWISE):
 
 
-								          , > ~ ~ ~ > ,
-					imagine   		  , '               ' ,
-			 we're here in time	    ,                       ,
-			  (13.8 bil years)-> 000                          ,
-			    (2021)            ^                           ,
-			 matter singularity/  *                           * matter heat death/
-			antimatter heat death ^                           , antimatter singularity
-			                       ,                         ,
-			                        ,                       ,
-			                          ,                  , '
-			                            ' - < _ _ _ <  '
+                                          , > ~ ~ ~ > ,
+                    imagine           , '               ' ,
+             we're here in time     ,                       ,
+              (13.8 bil years)-> 000                          ,
+                (2021)            ^                           ,
+             matter singularity/  *---------------------------* matter heat death/
+            antimatter heat death ^                           , antimatter singularity
+                                   ,                         ,
+                                    ,                       ,
+                                      ,                  , '
+                                        ' - < _ _ _ <  '
 
 
         ANTIMATTER's timeline relative to MATTER's present timeline (COUNTER CLOCKWISE):
 
 
-								         , < ~ ~ ~ < ,
-	                                , '                ' ,
-								  ,                        ,
-						         ,                          ^
-	 matter singularity/    	 ,                           , matter heat death/
-	 antimatter heat death>  000                            ** antimatter singularity
-			        ^            ,                           ^
-							|     ,                         ,
-							| 	   ,                       ,
-							| 		  ,                  , '
-							|    		' - > _ _ _ >  '
-							|
-					 	  |
-					 antimatter heat death has already occurred (in our time period) if we consider any possible timeline,
-					 in the near to long-term to unimaginably-long-term,
-					 future (which has yet to be determined truthfully as far as we can tell), has already been accounted for in a max entropy scope.
-					 Therefore being able to accurately predict our future is indeterminate without perfect CPT-symmetry.
+                                         , < ~ ~ ~ < ,
+                                    , '                ' ,
+                                  ,                        ,
+                                 ,                          ^
+     matter singularity/         ,                           , matter heat death/
+     antimatter heat death>  000 ----------------------------* antimatter singularity
+                    ^            ,                           ^
+                            |     ,                         ,
+                            |      ,                       ,
+                            |         ,                  , '
+                            |           ' - > _ _ _ >  '
+                            |
+                          |
+                     antimatter heat death has already occurred (in our time period) if we consider any possible timeline,
+                     in the near to long-term to unimaginably-long-term,
+                     future (which has yet to be determined truthfully as far as we can tell), has already been accounted for in a max entropy scope.
+                     Therefore being able to accurately predict our future is indeterminate without perfect CPT-symmetry.
 
-					 also, it is indeterminate whether or not we can truly know
-					 if an "antimatter mirrored-reality" would be as perfectly symmetric as we might believe it to be...
+                     also, it is indeterminate whether or not we can truly know
+                     if an "antimatter mirrored-reality" would be as perfectly symmetric as we might believe it to be...
 
 Hopefully this picture doesn't imply the belief of fate or destiny in this idea. Albeit, the idea for perfectly symmetric mirror-realities
 existing in the same space-time field is theoretically possible (impossible considering the infinite array of possibilities
@@ -147,7 +147,7 @@ Alas, here's the mind-blowing part. How do we know which one is Bob, and which o
 traveling into the future and Anti-Bob is going backwards in time! Wrong! We only perceive that Anti-Bob is going backwards
 in time due to our current relative arrow-of-time. But it is of utmost importance to highlight the fact that from Anti-Bob's perspective,
 he was going into the future while Bob was the one who was going into the past! Thus an equivalent relationship between Bob and Anti-Bob
-can be established on the grounds of General Relativity. LBYet I should also note, antimatter and matter may be unable to exist
+can be established on the grounds of General Relativity. Yet I should also note, antimatter and matter may be unable to exist
 in a stable environment together. Which is primarily why I've determined this discontinuous circle, centered around using PI as a
 general constant; can possibly be used universally. At the most rudimentary level, circles incorporate infinity...
 
@@ -181,11 +181,11 @@ T_1 =  inf
 h = 6.62607015×10^(−34) J/Hz                 # Planck's constant
 
 Let U(x) be a Universal state function,
-	where U(x) is an element of real numbers,
-	and T_0 < x < T_1 is a FINITE subset of real numbers in a temporal dimension (seconds).
+    where U(x) is an element of real numbers,
+    and T_0 < x < T_1 is a FINITE subset of real numbers in a temporal dimension (seconds).
 
-	NOTE: IF T_0 <= x <= T_1 THEN x is an infinite set of real numbers,
-	      WHEREIN the only significant answer would be in INDETERMINATE form...
+    NOTE: IF T_0 <= x <= T_1 THEN x is an infinite set of real numbers,
+          WHEREIN the only significant answer would be in INDETERMINATE form...
 
    ************************************************
    *                                              *
@@ -206,5 +206,5 @@ to collapse in on itself (i.e. Big Crunch)
 
 
 Footnote: need to actually provide credible links and bibliography style end.
-			    credit to where credit is due ᕕ(⌐■_■)ᕗ ♪♬
-			    
+                credit to where credit is due ᕕ(⌐■_■)ᕗ ♪♬
+                
