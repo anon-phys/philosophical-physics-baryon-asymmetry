@@ -155,7 +155,7 @@ IMPORTANT NOTE: What if we approach this circle as the imaginary radius approach
                         A
                 
                                         1         
-                        where x_0 =  -------  =  A  , and x_1 = x0;
+                        where x_0 =  -------  =  A  , and x_1 = x_0;
                                        π*h        
                                        
                         U_matter(x_0)(-) = -1;
@@ -166,8 +166,7 @@ IMPORTANT NOTE: What if we approach this circle as the imaginary radius approach
                         U_anti  (x_0)(-) = -1;
                         U_matter(x_1)(+) =  1;
                         
-                     Thus, U_matter + U_anti = 0. Entropy could be conserved, interestingly though, I have no idea what any of these constants
-                     actually mean in a universal sense...
+                     Thus, U_matter + U_anti = 0. Entropy could be conserved.
 
 
 Think of it like this, Bob hops on the train at 6:00 AM for work. He hops off the train at 7:00 AM. He gets to the office at around 7:30 AM.
