@@ -143,6 +143,11 @@ IMPORTANT NOTE: What if we approach this circle as the imaginary radius approach
                 
                 In the most simple terms, we can describe the entropy states of these two events, or possibly an infinite variety of events,
                 using the Universal state function,
+                
+                
+                        Aion's constant (total ripoff of Planck and PI, also infinity and irrational numbers)?
+                        A = 4.8039016e+32 (m^2 kg / s)
+                
                                         1
                         where x_0 =  -------, and x_1 = x0;
                                        π*h
