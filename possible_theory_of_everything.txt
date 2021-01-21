@@ -135,7 +135,7 @@ it to be.
 
 
 IMPORTANT NOTE: What if we approach this circle as the imaginary radius approaches an infinitesimally small point? Wherein, two discontinuous, infinitely small
-                point which represent maximum entropy events can be folded on top of itself?
+                points (which represent maximum entropy events) can be folded on top of itself?
                 
                 In theory, this fictional, or non-fictional, "Circle of Time" represents a closed, one-dimensional loop.
                 Therefore, we could approximate truly, a one dimesional structure that can be represented or abstracted
