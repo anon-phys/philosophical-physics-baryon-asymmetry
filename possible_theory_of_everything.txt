@@ -134,15 +134,21 @@ Even then, those purely symmetric realities could hypothetically have some sort 
 it to be.
 
 
-IMPORTANT NOTE: What if we approach this circle as the imaginary radius approaches an infinitesimally small point? Wherein, two discontinuous, infinitely small
-                points (which represent maximum entropy events) can be folded on top of itself?
+IMPORTANT NOTE: What if we approach this circle, as if there was an imaginary radius that approaches an infinitesimally small point?
+                
+                Wherein, two discontinuous, infinitely small points (which represent maximum entropy events) can be folded on top of themselves,
+                in a geometrically, origami-style fashion (if we wish to imagine it this particular way).
+                
+                The "Circle of Time" could then easily be folded in half (fold axis is assumed to be down the middle,
+                relative initial conditions for how it's orientated is irrelevant in this scenario), fold on itself again, except perpendicularly,
+                where two discontinuous event singularities (or anomalies) have essentially become a single point; rinse-repeat until folding reaches one dimensionality.
                 
                 In theory, this fictional, or non-fictional, "Circle of Time" represents a closed, one-dimensional loop.
                 Therefore, we could approximate truly, a one dimesional structure that can be represented or abstracted
-                in any mathematical n-th dimension.
+                in any mathematical n-th dimensional structure.
                 
                 In the most simple terms, we can describe the entropy states of these two events, or possibly an infinite variety of events,
-                using the Universal state function,
+                using the Universal state function, while considering them in the same context -> space-time.
                 
                 
                         Aion's constant?
