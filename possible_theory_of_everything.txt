@@ -152,7 +152,7 @@ IMPORTANT NOTE: What if we approach this circle, as if there was an imaginary ra
                 using the Universal state function, while considering them in the same context -> space-time.
                 
                 
-                        Aion's constant?
+                        Aion's constant (or the PPRO? for PLANCK PI RIP OFF)?
                         
                         
                         A = 4.8039016e+32 (m^2 kg / s)
