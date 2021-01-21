@@ -140,7 +140,22 @@ IMPORTANT NOTE: What if we approach this circle as the imaginary radius approach
                 In theory, this fictional, or non-fictional, "Circle of Time" represents a closed, one-dimensional loop.
                 Therefore, we could approximate truly, a one dimesional structure that can be represented or abstracted
                 in any mathematical n-th dimension.
-
+                
+                In the most simple terms, we can describe the entropy states of these two events, or possibly an infinite variety of events,
+                using the Universal state function,
+                                        1
+                        where x_0 =  -------, and x_1 = x0;
+                                       π*h
+                                       
+                        U_matter(x_0)(-) = -1
+                        U_anti  (x_1)(+) =  1
+                        
+                                 or
+                                 
+                        U_anti  (x_0)(-) = -1
+                        U_matter(x_1)(+) =  1
+                        
+                  Thus, U_matter + U_anti = 0.
 
 
 Think of it like this, Bob hops on the train at 6:00 AM for work. He hops off the train at 7:00 AM. He gets to the office at around 7:30 AM.
