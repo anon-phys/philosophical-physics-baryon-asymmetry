@@ -145,22 +145,29 @@ IMPORTANT NOTE: What if we approach this circle as the imaginary radius approach
                 using the Universal state function,
                 
                 
-                        Aion's constant (total ripoff of Planck and PI, also infinity and irrational numbers)?
+                        Aion's constant?
+                        
+                        
                         A = 4.8039016e+32 (m^2 kg / s)
+                        
+                        1
+                      ----- = 2.0816413e-33 ( s / m^2 kg)
+                        A
                 
-                                        1
-                        where x_0 =  -------, and x_1 = x0;
-                                       π*h
+                                        1         
+                        where x_0 =  -------  =  A  , and x_1 = x0;
+                                       π*h        
                                        
-                        U_matter(x_0)(-) = -1
-                        U_anti  (x_1)(+) =  1
+                        U_matter(x_0)(-) = -1;
+                        U_anti  (x_1)(+) =  1;
                         
                                  or
                                  
-                        U_anti  (x_0)(-) = -1
-                        U_matter(x_1)(+) =  1
+                        U_anti  (x_0)(-) = -1;
+                        U_matter(x_1)(+) =  1;
                         
-                  Thus, U_matter + U_anti = 0.
+                     Thus, U_matter + U_anti = 0. Entropy could be conserved, interestingly though, I have no idea what any of these numbers
+                     actually mean in a universal sense...
 
 
 Think of it like this, Bob hops on the train at 6:00 AM for work. He hops off the train at 7:00 AM. He gets to the office at around 7:30 AM.
