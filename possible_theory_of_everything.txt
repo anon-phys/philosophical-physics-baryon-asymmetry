@@ -141,7 +141,8 @@ IMPORTANT NOTE: What if we approach this circle, as if there was an imaginary ra
                 
                 The "Circle of Time" could then easily be folded in half (fold axis is assumed to be down the middle,
                 relative initial conditions for how it's orientated is irrelevant in this scenario), fold on itself again, except perpendicularly,
-                where two discontinuous event singularities (or anomalies) have essentially become a single point; rinse-repeat until folding reaches one dimensionality.
+                where two discontinuous event singularities (or anomalies) have essentially become a single point;
+                rinse-repeat until folding reaches one dimensionality in the context of this "Circle of Time" figure.
                 
                 In theory, this fictional, or non-fictional, "Circle of Time" represents a closed, one-dimensional loop.
                 Therefore, we could approximate truly, a one dimesional structure that can be represented or abstracted
