@@ -166,7 +166,7 @@ IMPORTANT NOTE: What if we approach this circle as the imaginary radius approach
                         U_anti  (x_0)(-) = -1;
                         U_matter(x_1)(+) =  1;
                         
-                     Thus, U_matter + U_anti = 0. Entropy could be conserved, interestingly though, I have no idea what any of these numbers
+                     Thus, U_matter + U_anti = 0. Entropy could be conserved, interestingly though, I have no idea what any of these constants
                      actually mean in a universal sense...
 
 
