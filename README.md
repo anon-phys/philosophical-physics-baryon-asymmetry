@@ -6,5 +6,7 @@ It really bothers me that I can't publish this online without any way of it gett
 by releasing it into the wild for free. So, here it is for all - to view, download, copy, or modify - for free. Under the condition that it is technically,
 software.
 
+Also, trying to get this thing published, or claiming intellectual property, seems like a pain in the ass (energy, $$$, time) so all the more reason to let it go from here.
+
 Have fun,
   - LBB
