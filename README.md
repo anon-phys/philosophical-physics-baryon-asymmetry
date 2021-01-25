@@ -10,15 +10,11 @@ Also, trying to get this thing published, or claiming intellectual property, see
 
 Oh! Also, here's my differential calculus for Matter to Anti-Matter equivalence (unproven but lgtm ¯\_(ツ)_/¯)
 
-       dt         -dt
-   ---------- = -------- 
-    d_matter     d_anti
-    
-        or;
+     (dt / dm)  =  -(dt / dm_anti)
 
-    d_matter      -d_anti
-   ---------- = ------------ 
-       dt            dt
+or
+
+     (dm / dt)  =  -(dm_anti / dt)
       
 
 Have fun,
