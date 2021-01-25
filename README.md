@@ -8,5 +8,18 @@ software.
 
 Also, trying to get this thing published, or claiming intellectual property, seems like a pain in the ass (energy, $$$, time) so all the more reason to let it go from here.
 
+Oh! Also, here's my differential calculus for Matter to Anti-Matter equivalence (unproven but lgtm ¯\_(ツ)_/¯)
+
+       dt         -dt
+   ---------- = -------- 
+    d_matter     d_anti
+    
+        or;
+
+    d_matter      -d_anti
+   ---------- = ------------ 
+       dt            dt
+      
+
 Have fun,
   - LBB
