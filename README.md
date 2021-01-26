@@ -19,6 +19,3 @@ or
 
 Have fun,
   - LBB
-
-
-P.S. the whole reason why I studied this stuff in the first place was because it was fun, and light-hearted. The seriousness totally killed it for me, so y'all can figure it out from here since IDGAF. Honestly - biggest buzzkill in my entire life for one of my proudest achievements to be ripped from my heart. Not that American academia actually cares (God, and the dumbass prestige - it's like one big fucking circlejerk), but thought I'd let it be known since I don't think anyone would actually take the time to figure that one out. Heh.
