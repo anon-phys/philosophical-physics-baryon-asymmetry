@@ -22,4 +22,4 @@ Have fun,
 
 
 
-P.S. Modern publishing avenues need some serious work. Otherwise, I'd never consider to enter academic publishing, simply on the account of researchers getting bent over backwards for a buck. All my scientific heros would be disgusted, as am I. There's no pricetag on quality work, otherwise you could've bought it already...
+P.S. Do you like apples?
